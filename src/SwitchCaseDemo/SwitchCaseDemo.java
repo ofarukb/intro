@@ -22,7 +22,7 @@ public class SwitchCaseDemo {
 			System.out.println("Kötü not : Kaldınız");
 			break;
 		default:
-			System.out.println("Geçersin not girdiniz");
+			System.out.println("Geçersiz not girdiniz");
 			break;
 		}
 	}
